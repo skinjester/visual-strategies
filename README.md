@@ -1,4 +1,5 @@
 # Welcome to Visual Strategies for Neural Artistic Style Transfer
+[Workshop Notes](https://github.com/skinjester/visual-strategies/wiki)
 
 ## Requirements: ##
 * Laptop running Windows or MacOS
